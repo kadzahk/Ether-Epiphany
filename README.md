@@ -2,6 +2,7 @@
 ---
 ---
 Ether epiphany, a mysterious and interesting adventure
+
 Download it and live the adventure yourself
 ![](https://cdn.discordapp.com/attachments/976850665181704252/1035020048047284275/Fondo.jpg)
 
@@ -53,9 +54,9 @@ Spirits of the forest corrupted from attacks by shamans. Incapable of thinking, 
 ---
 # Credits
 - Game Designer: [@NottSr](https://github.com/NottSr) -> Leonardo Berrio
-- Game programer: [kadzahk](https://github.com/kadzahk) -> Juan Manuel Muñoz Rincon
-- Game programer: [TEOACEVEDO](https://github.com/TEOACEVEDO) -> Mateo Acevedo Vélez
-- Game programer: [santiago1411](https://github.com/santiago1411) -> Santiago Alexander Osorno
+- Game programer: [@kadzahk](https://github.com/kadzahk) -> Juan Manuel Muñoz Rincon
+- Game programer: [@TEOACEVEDO](https://github.com/TEOACEVEDO) -> Mateo Acevedo Vélez
+- Game programer: [@santiago1411](https://github.com/santiago1411) -> Santiago Alexander Osorno
 - Narrative Designer: Joel Baker
 - Game artist: Tatiana Valencia (Tatto Art)
 - Game artist: Victor Gomez (VectorG Art)
