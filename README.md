@@ -60,3 +60,4 @@ Spirits of the forest corrupted from attacks by shamans. Incapable of thinking, 
 - Narrative Designer: Joel Baker
 - Game artist: Tatiana Valencia (Tatto Art)
 - Game artist: Victor Gomez (VectorG Art)
+.
