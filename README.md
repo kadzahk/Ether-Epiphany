@@ -7,7 +7,7 @@ Download it and live the adventure yourself
 ![](https://cdn.discordapp.com/attachments/976850665181704252/1035020048047284275/Fondo.jpg)
 
 # Getting Started
-[SEE THE TRILER](https://drive.google.com/file/d/1aJ_L_Q0ETSmJhAPiLw1tzwjT7rW03adL/view?usp=drivesdk)
+[SEE THE GAMEPLAY](https://drive.google.com/file/d/1aJ_L_Q0ETSmJhAPiLw1tzwjT7rW03adL/view?usp=drivesdk)
 # Requirements to play
 Make sure you have the below requirements before starting:
 
